@@ -1,0 +1,13 @@
+#ifndef D2R_H_
+#define D2R_H_
+
+#define MEM_ENTITIES					0x1B14C2C
+
+#define OFFSET_ENTITY_MAXHP		0x114
+#define OFFSET_ENTITY_HP			0x118
+
+#define OFFSET_ENTITY_HEROID	0x708
+#define OFFSET_ENTITY_POS_X		0x134
+#define OFFSET_ENTITY_POS_Y		0x138
+
+#endif
