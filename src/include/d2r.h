@@ -1,7 +1,7 @@
 #ifndef D2R_H_
 #define D2R_H_
 
-#define MEM_ENTITIES					0x1B14C2C
+#define MEM_ENTITIES					0x1B152BC
 
 #define OFFSET_ENTITY_MAXHP		0x114
 #define OFFSET_ENTITY_HP			0x118
